@@ -22,7 +22,7 @@ public class Test extends  GeneralTest {
 
 
         public int getCount () {
-            return 1;
+            return 3;
         }
         public static void main(String[] args){
             Test test = new Test();
